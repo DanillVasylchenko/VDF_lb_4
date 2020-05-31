@@ -10,9 +10,6 @@
 .house_fixed{
     display: inline-block;
 }
-.house_sticky{
-    position: sticky;
-}
 
 
 .roof_static{
